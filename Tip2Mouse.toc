@@ -1,0 +1,7 @@
+## Interface: 11303
+## Title:Tip2Mouse 
+## Author: Junlin Zhou
+## Notes: Game tooltip anchor to mouse
+## Version: 0.8
+
+Tip2Mouse.lua
